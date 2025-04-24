@@ -1,0 +1,18 @@
+#1 - Criar um ambeinte virtual
+pip install virtualenv
+python -m venv AplicacaoPlotly
+
+#2 - Entrar no diretorio
+cd AplicacaoPlotly\Scripts
+
+#3 - Ativar o ambiente virtual
+activate
+
+#4 - Voltar para a pasta oreim
+cd..
+cd..
+
+#5 - Instalar os pacores
+pip install plotly
+pip install dash
+pip install pandas

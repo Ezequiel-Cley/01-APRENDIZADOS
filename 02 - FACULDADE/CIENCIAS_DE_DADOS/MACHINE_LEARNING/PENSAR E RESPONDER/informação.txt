@@ -1,0 +1,3 @@
+Link para acesso da atividade pelo COLAB
+
+https://colab.research.google.com/drive/1PsStwyyE4oWw-OA-SNK6Tx8u1XLEcltk?authuser=1#scrollTo=-znK8N9uZYv6
