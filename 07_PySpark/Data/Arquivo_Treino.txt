@@ -1,0 +1,12 @@
+Nome,Departamento,Salário
+Pedro,,2000
+Jhon,Vendas,3000
+Anna,Marketing,4500
+João,       Vendas,
+Mike,Vendas,3500
+Sara,Marketing,4000
+Maria,,2000
+Julia, ,2500
+Eduarda,"
+",3000
+,,
